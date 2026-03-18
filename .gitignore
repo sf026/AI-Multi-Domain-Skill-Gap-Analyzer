@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+
+# Uploads
+frontend/uploads/
+
+# DATASETS (IMPORTANT 🔥)
+backend/data/*.csv
+backend/data/*.json
+data/*.json
+
+# Optional: hide all data folder
+# backend/data/
+
+# Logs
+*.log
+
+.env
+# OS files
+.DS_Store
+Thumbs.db
