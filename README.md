@@ -18,14 +18,7 @@ An AI-powered web application that analyzes resumes, detects profession, compare
 ---
 
 ## 🏗️ System Architecture
-Frontend (Streamlit)
-↓
-Backend (FastAPI)
-↓
-NLP + RAG Processing
-↓
-Skill Gap Analysis Output
-
+Frontend (Streamlit) > Backend (FastAPI)  > NLP + RAG Processing > Skill Gap Analysis Output
 
 ---
 
