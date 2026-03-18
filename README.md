@@ -80,8 +80,4 @@ This project uses RAG principles:
 - AI responses may vary
 - No real-time job market integration
 
-## ⚠️ Limitations
-- Accuracy depends on resume quality
-- Limited dataset coverage
-- AI responses may vary
-- No real-time job market integration
+
